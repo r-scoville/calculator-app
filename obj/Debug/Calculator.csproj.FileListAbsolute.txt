@@ -1,0 +1,10 @@
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\bin\Debug\Calculator.exe
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.MainForm.resources
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.exe
+C:\Users\rscov\Desktop\school\prog2200\Assignments\Assignment3\Calculator\obj\Debug\Calculator.pdb
